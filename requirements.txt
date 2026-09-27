@@ -1,0 +1,5 @@
+opencv-python==4.10.0.84
+pywin32
+Pillow
+keyboard
+#run in terminal: py -m pip install -r requirements.txt
