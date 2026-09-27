@@ -1,6 +1,12 @@
 # Panic Cloud
 
-A tiny privacy pet for VS Code that panics when someone looks over your shoulder.
+<p align="center">
+  <img src="assets/cloud.png" width="180" alt="Panic Cloud mascot">
+</p>
+
+<p align="center">
+  <b>A tiny privacy pet for VS Code that panics when someone looks over your shoulder.</b>
+</p>
 
 If another face appears in your webcam feed, Panic Cloud can:
 
@@ -9,7 +15,6 @@ If another face appears in your webcam feed, Panic Cloud can:
 - **HIDE** — make VS Code disappear completely
 
 Yes, the cloud has anxiety.
-
 ---
 
 ## Quick Start
