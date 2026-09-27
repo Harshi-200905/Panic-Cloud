@@ -340,7 +340,7 @@ class Mascot:
 
         header = tk.Label(
             content,
-            text="RunAway",
+            text="Panic Cloud",
             fg=TEXT,
             bg=BG,
             font=(

@@ -16,7 +16,7 @@ from privacy import PrivacyController
 mutex = ctypes.windll.kernel32.CreateMutexW(
     None,
     False,
-    "RunAwayPrivacyPetSingleInstance"
+    "PanicCloudSingleInstance"
 )
 
 ERROR_ALREADY_EXISTS = 183

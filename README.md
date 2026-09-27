@@ -1,8 +1,8 @@
-# RunAway
+# Panic Cloud
 
-A tiny privacy pet for VS Code that reacts when someone looks over your shoulder.
+A tiny privacy pet for VS Code that panics when someone looks over your shoulder.
 
-If another face appears in your webcam feed, RunAway can:
+If another face appears in your webcam feed, Panic Cloud can:
 
 - **PANIC** — violently shake your VS Code window
 - **BLUR** — make your code unreadable
@@ -22,3 +22,4 @@ Yes, the cloud has anxiety.
 
 ```text
 run.bat
+```

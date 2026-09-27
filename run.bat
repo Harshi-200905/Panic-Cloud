@@ -1,9 +1,9 @@
 @echo off
-title RunAway Pet
+title Panic Cloud
 
 echo.
 echo ===================================
-echo            RUNAWAY PET
+echo            PANIC CLOUD
 echo ===================================
 echo.
 
